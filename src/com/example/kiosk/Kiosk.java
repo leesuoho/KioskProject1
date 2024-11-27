@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * Kiosk 클래스
- * 키오스크 시스템을 구현
+ * 키오스크 시스템을 구현 했습니다.
  */
 public class Kiosk {
     /**
